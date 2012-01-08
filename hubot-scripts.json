@@ -2,6 +2,5 @@
  "redis-brain.coffee",
  "tweet.coffee",
  "shipit.coffee",
- "janky.coffee",
  "ascii.coffee"
 ]
